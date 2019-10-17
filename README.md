@@ -1,1 +1,1 @@
-# sun
+# Natural light

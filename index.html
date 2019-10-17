@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Natural Light</title>
+    <link rel="stylesheet" href="assets/css/style.css">
+    <script src="assets/js/lib/suncalc.js"></script>
+</head>
+<body>
+    <div><span id="clock"></span> (current time) <span id="moreInfo"></span></div>
+    <br>
+    <div id="lights">
+        <ul id="times"></ul>
+        <ul id="names"></ul>
+        <ul id="descriptions"></ul>
+    </div>
+    <br><br>
+    <input type="text" placeholder="position (percent)"><button id="button">go!</button>
+    <br><br>
+    sunrise <input type="range" min="0" max="100"> sunset
+    <br><br>
+    <div id="sun">
+        <div class="sunlight" id="sunL"></div>
+        <div id="sunBody"></div>
+        <div class="sunlight" id="sunR"></div>
+    </div>
+
+    <script src="assets/js/script.js"></script>
+</body>
+</html>
