@@ -1,6 +1,7 @@
 body{
     background:pink;
     margin: 0;
+    overflow: hidden; /*disable scroll bars when the sun is outside the window*/
 }
 
 ul{
