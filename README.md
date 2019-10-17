@@ -6,6 +6,7 @@ list of references:
 - Olafur Eliasson, [The Weather Project (2003](https://olafureliasson.net/archive/artwork/WEK101003/the-weather-project))
 - Ted Hunt, [Circa Solar (2019)](https://www.kickstarter.com/projects/1289884842/circasolar)
 - Rafaël Rozendaal, [Random Fear with Mirrors](https://www.newrafael.com/random-fear-in-kunsthal-rotterdam/)
+- Low Tech Magazine, [solar-powered website](https://solar.lowtechmagazine.com/)
 
 list of apis:
 - https://sunrise-sunset.org/api
